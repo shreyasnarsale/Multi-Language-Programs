@@ -12,9 +12,6 @@ n = n // 10
 
 print("Reversed Number =", rev)
 
-Example:
-Input: 1234
-Output: 4321
 
 ====================================================
 2) JAVA PROGRAM
@@ -41,7 +38,6 @@ public static void main(String[] args) {
 }
 
 }
-
 
 
 ====================================================
