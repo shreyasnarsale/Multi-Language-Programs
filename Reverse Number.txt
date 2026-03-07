@@ -1,0 +1,70 @@
+====================================================
+1. PYTHON PROGRAM
+  
+
+n = int(input("Enter a number: "))
+rev = 0
+
+while n > 0:
+digit = n % 10
+rev = rev * 10 + digit
+n = n // 10
+
+print("Reversed Number =", rev)
+
+Example:
+Input: 1234
+Output: 4321
+
+====================================================
+2) JAVA PROGRAM
+
+import java.util.Scanner;
+
+public class ReverseNumber {
+public static void main(String[] args) {
+
+    Scanner sc = new Scanner(System.in);
+
+    System.out.print("Enter a number: ");
+    int n = sc.nextInt();
+
+    int rev = 0;
+
+    while(n != 0) {
+        int digit = n % 10;
+        rev = rev * 10 + digit;
+        n = n / 10;
+    }
+
+    System.out.println("Reversed Number = " + rev);
+}
+
+}
+
+
+
+====================================================
+3) C++ PROGRAM
+
+#include <iostream>
+using namespace std;
+
+int main() {
+int n, rev = 0;
+
+cout << "Enter a number: ";
+cin >> n;
+
+while(n != 0) {
+    int digit = n % 10;
+    rev = rev * 10 + digit;
+    n = n / 10;
+}
+
+cout << "Reversed Number = " << rev;
+
+return 0;
+
+}
+
