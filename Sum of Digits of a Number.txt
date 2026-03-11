@@ -1,0 +1,65 @@
+================================================
+1. Python
+
+n = int(input("Enter a number: "))
+
+sum = 0
+
+while n > 0:
+    digit = n % 10
+    sum = sum + digit
+    n = n // 10
+
+print("Sum of digits =", sum)
+
+================================================
+2. Java 
+
+import java.util.Scanner;
+
+public class SumDigits {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+
+        int sum = 0;
+
+        while(n != 0){
+            int digit = n % 10;
+            sum = sum + digit;
+            n = n / 10;
+        }
+
+        System.out.println("Sum of digits = " + sum);
+    }
+}
+
+================================================
+3. C++
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int n, sum = 0;
+
+    cout << "Enter a number: ";
+    cin >> n;
+
+    while(n != 0){
+        int digit = n % 10;
+        sum = sum + digit;
+        n = n / 10;
+    }
+
+    cout << "Sum of digits = " << sum;
+
+    return 0;
+}
+
+
