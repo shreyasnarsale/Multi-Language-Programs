@@ -74,7 +74,7 @@ As I continue learning, more technologies and tools will be added to my skillset
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shreyasnarsale/shreyasnarsale/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/shreyasnarsale/shreyasnarsale/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
