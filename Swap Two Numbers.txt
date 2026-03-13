@@ -1,0 +1,68 @@
+=============================================
+1. Python
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+temp = a
+a = b
+b = temp
+
+print("After swapping")
+print("a =", a)
+print("b =", b)
+
+=============================================
+2. Java
+
+import java.util.Scanner;
+
+public class SwapNumbers {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter first number: ");
+        int a = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        int b = sc.nextInt();
+
+        int temp = a;
+        a = b;
+        b = temp;
+
+        System.out.println("After swapping:");
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+    }
+}
+
+=============================================
+3. C++
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int a, b;
+
+    cout << "Enter first number: ";
+    cin >> a;
+
+    cout << "Enter second number: ";
+    cin >> b;
+
+    int temp = a;
+    a = b;
+    b = temp;
+
+    cout << "After swapping\n";
+    cout << "a = " << a << endl;
+    cout << "b = " << b;
+
+    return 0;
+}
+
