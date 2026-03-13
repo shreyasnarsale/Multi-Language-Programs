@@ -59,6 +59,18 @@ As I continue learning, more technologies and tools will be added to my skillset
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasnarsale&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 ## 🌱 Continuous Growth
 
 Technology evolves every day, and so will this repository.
