@@ -1,63 +1,85 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Programming+Journey;Learning+Coding+Step+by+Step;Building+Logic+%26+Solving+Problems;Future+Software+Developer" />
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+---
+
 # 🚀 Shreyas Narsale – Programming Journey
 
-Welcome to my programming repository 👨‍💻
+<p align="center">
 
-This repository represents my **learning journey in programming and technology**.
-Here I continuously practice coding, explore new concepts, and improve my problem-solving skills.
+<img src="https://img.shields.io/badge/Focus-Learning%20Programming-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Become%20a%20Better%20Developer-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Motivation-Consistency%20%26%20Practice-success?style=for-the-badge"/>
 
-Every program and project added here is part of my effort to **become a better developer step by step**.
-
----
-
-## 💡 Motivation
-
-Programming is not just about writing code —
-it is about **solving problems, building logic, and creating solutions**.
-
-This repository exists because I believe in:
-
-✨ Learning something new every day
-✨ Practicing consistently
-✨ Improving through experimentation
-✨ Building strong programming fundamentals
-
-Every file added here represents **progress in my coding journey**.
+</p>
 
 ---
 
-## 🎯 Purpose of This Repository
+## 💡 About This Repository
 
-The main purpose of this repository is to:
+This repository represents my **coding journey and continuous learning process**.
 
-📚 Practice programming concepts
-🧠 Improve logical thinking
-⚙️ Experiment with different technologies
-💻 Build small systems and programs
-📈 Track my growth as a programmer
+I created this space to practice programming, experiment with new ideas, and improve my problem-solving skills.
+
+Every piece of code added here reflects **progress, curiosity, and dedication to learning technology**.
 
 ---
 
-## 🌱 Continuous Learning
+## 🎯 My Motivation
 
-Technology keeps evolving, and so will this repository.
+Programming is more than just writing code.
 
-As I continue learning, I will keep adding:
+It is about:
 
-🚀 New programming concepts
-🚀 More projects
+✨ Thinking logically
+✨ Solving real problems
+✨ Learning through practice
+✨ Improving step by step
+
+This repository is a reflection of my belief that **consistent practice leads to mastery**.
+
+---
+
+## 🧰 Technologies I Work With
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode"/>
+</p>
+
+As I continue learning, more technologies and tools will be added to my skillset.
+
+---
+
+## 🌱 Continuous Growth
+
+Technology evolves every day, and so will this repository.
+
+In the future, this space will grow with:
+
+🚀 New programming languages
+🚀 More projects and experiments
 🚀 Data structures and algorithms
-🚀 Web development experiments
-🚀 Different programming languages
+🚀 Web development projects
+🚀 Advanced programming concepts
 
-This repository will grow along with my **skills and experience**.
+This repository will grow alongside my **skills and experience as a developer**.
 
 ---
 
-## 🔥 My Coding Philosophy
+## 🔥 Coding Philosophy
 
-> "The best way to learn programming is by **writing code, making mistakes, and improving every day**."
+> "The best programmers are not those who know everything, but those who never stop learning."
 
-Consistency and curiosity are the keys to mastering technology.
+Consistency, curiosity, and practice are the keys to mastering programming.
 
 ---
 
@@ -65,15 +87,15 @@ Consistency and curiosity are the keys to mastering technology.
 
 Hi, I'm **Shreyas Narsale**.
 
-🎓 Infromation Technology Student
+🎓 Computer Engineering Student
 💻 Passionate about Programming
-🚀 Interested in Technology & Development
-📚 Always learning new things in coding
+🚀 Always exploring new technologies
+📚 Dedicated to continuous learning
 
 ---
 
-## ⭐ Thank You for Visiting
+## ⭐ Thanks for Visiting
 
-If you came across this repository, thank you for taking the time to explore my work.
+If you came across this repository, thank you for taking the time to explore my coding journey.
 
 This repository will continue evolving as I **learn, build, and grow in the world of programming**.
