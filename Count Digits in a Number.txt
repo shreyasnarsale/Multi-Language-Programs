@@ -1,0 +1,61 @@
+============================================================
+1. Python
+
+n = int(input("Enter a number: "))
+
+count = 0
+
+while n > 0:
+    n = n // 10
+    count += 1
+
+print("Total digits =", count)
+
+============================================================
+2. Java
+
+import java.util.Scanner;
+
+public class CountDigits {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+
+        int count = 0;
+
+        while(n != 0){
+            n = n / 10;
+            count++;
+        }
+
+        System.out.println("Total digits = " + count);
+    }
+}
+
+============================================================
+3. C++
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int n, count = 0;
+
+    cout << "Enter a number: ";
+    cin >> n;
+
+    while(n != 0){
+        n = n / 10;
+        count++;
+    }
+
+    cout << "Total digits = " << count;
+
+    return 0;
+}
+
