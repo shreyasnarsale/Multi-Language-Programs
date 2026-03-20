@@ -1,0 +1,72 @@
+============================================================
+1. Python
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+
+if a >= b and a >= c:
+    print("Largest =", a)
+elif b >= a and b >= c:
+    print("Largest =", b)
+else:
+    print("Largest =", c)
+
+============================================================
+2. Java
+
+import java.util.Scanner;
+
+public class LargestNumber {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter first number: ");
+        int a = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        int b = sc.nextInt();
+
+        System.out.print("Enter third number: ");
+        int c = sc.nextInt();
+
+        if(a >= b && a >= c)
+            System.out.println("Largest = " + a);
+        else if(b >= a && b >= c)
+            System.out.println("Largest = " + b);
+        else
+            System.out.println("Largest = " + c);
+    }
+}
+
+============================================================
+3. C++
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int a, b, c;
+
+    cout << "Enter first number: ";
+    cin >> a;
+
+    cout << "Enter second number: ";
+    cin >> b;
+
+    cout << "Enter third number: ";
+    cin >> c;
+
+    if(a >= b && a >= c)
+        cout << "Largest = " << a;
+    else if(b >= a && b >= c)
+        cout << "Largest = " << b;
+    else
+        cout << "Largest = " << c;
+
+    return 0;
+}
+
