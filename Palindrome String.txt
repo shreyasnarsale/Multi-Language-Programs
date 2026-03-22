@@ -1,0 +1,65 @@
+============================================================
+1. Python
+
+s = input("Enter a string: ")
+
+rev = s[::-1]
+
+if s == rev:
+    print("Palindrome String")
+else:
+    print("Not Palindrome")
+
+============================================================
+2. Java
+
+import java.util.Scanner;
+
+public class PalindromeString {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a string: ");
+        String s = sc.nextLine();
+
+        String rev = "";
+
+        for(int i = s.length() - 1; i >= 0; i--){
+            rev = rev + s.charAt(i);
+        }
+
+        if(s.equals(rev))
+            System.out.println("Palindrome String");
+        else
+            System.out.println("Not Palindrome");
+    }
+}
+
+============================================================
+3. C++
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+
+    string s, rev = "";
+
+    cout << "Enter a string: ";
+    cin >> s;
+
+    for(int i = s.length() - 1; i >= 0; i--){
+        rev = rev + s[i];
+    }
+
+    if(s == rev)
+        cout << "Palindrome String";
+    else
+        cout << "Not Palindrome";
+
+    return 0;
+}
+
