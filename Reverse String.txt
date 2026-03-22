@@ -1,0 +1,66 @@
+============================================================
+1. Python
+
+s = input("Enter a string: ")
+
+rev = s[::-1]
+
+print("Reversed String =", rev)
+
+----------------------------------------
+
+s = input("Enter a string: ")
+
+rev = ""
+
+for ch in s:
+    rev = ch + rev
+
+print("Reversed String =", rev)
+
+============================================================
+2. Java
+
+import java.util.Scanner;
+
+public class ReverseString {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a string: ");
+        String s = sc.nextLine();
+
+        String rev = "";
+
+        for(int i = s.length() - 1; i >= 0; i--){
+            rev = rev + s.charAt(i);
+        }
+
+        System.out.println("Reversed String = " + rev);
+    }
+}
+
+============================================================
+3. C++
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+
+    string s, rev = "";
+
+    cout << "Enter a string: ";
+    cin >> s;
+
+    for(int i = s.length() - 1; i >= 0; i--){
+        rev = rev + s[i];
+    }
+
+    cout << "Reversed String = " << rev;
+
+    return 0;
+}
